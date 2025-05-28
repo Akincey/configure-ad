@@ -24,10 +24,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Prepare Active Directory Infrustructure in Azure
+- Deploy Active Directory
+- Create Users in Powershell
+- Configure Group Policy and manage accounts
 
 <h2>Deployment and Configuration Steps</h2>
 
