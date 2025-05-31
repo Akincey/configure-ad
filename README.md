@@ -39,7 +39,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I am in the process of configuring my virtual machine for the Active Directory lab environment. At this stage, I have updated the IP address settings from dynamic to static to ensure consistent network communication. The screenshot shown captures the step where I temporarily disabled the firewall for controlled testing purposes."
 </p>
 <br />
 
