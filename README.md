@@ -51,7 +51,7 @@ I am in the process of configuring my virtual machine for the Active Directory l
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+For this lab, I configured two separate virtual machines. In this step, I am using PowerShell and the ipconfig /all command to verify the DNS settings. This is to ensure that the configuration correctly reflects the private IP address of the second virtual machine.
 </p>
 <br />
 
