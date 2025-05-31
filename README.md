@@ -61,6 +61,6 @@ For this lab, I configured two separate virtual machines. In this step, I am usi
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  After setting up Active Directory Users and Computers, I utilized a PowerShell script to create over 1,000 user accounts. The objective was to ensure that each account was accurately placed within the appropriate Organizational Unit (OU) for proper structure and management.
 </p>
 <br />
